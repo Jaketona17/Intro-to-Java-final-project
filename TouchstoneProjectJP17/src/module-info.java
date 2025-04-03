@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module TouchstoneProjectJP17 {
-}
